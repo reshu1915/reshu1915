@@ -15,4 +15,4 @@ Final year BTech student pursuing Computer Science and Engineering at GITAM. Iâ€
 ---
 [![](https://komarev.com/ghpvc/?username=reshu1915&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/reshu1915/reshu1915/blob/output/github-snake.svg)
